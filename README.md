@@ -23,9 +23,11 @@ question are solving on leetcode
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AmitPandey41/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AmitPandey41/leetcode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AmitPandey41/leetcode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/AmitPandey41/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
