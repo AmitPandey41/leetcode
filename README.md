@@ -16,6 +16,7 @@ question are solving on leetcode
 | [0724-find-pivot-index](https://github.com/AmitPandey41/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/AmitPandey41/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AmitPandey41/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/AmitPandey41/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/AmitPandey41/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
@@ -68,4 +69,5 @@ question are solving on leetcode
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AmitPandey41/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/AmitPandey41/leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
