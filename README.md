@@ -8,6 +8,7 @@ question are solving on leetcode
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmitPandey41/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/AmitPandey41/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/AmitPandey41/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AmitPandey41/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/AmitPandey41/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AmitPandey41/leetcode/tree/master/0268-missing-number) |
@@ -68,6 +69,11 @@ question are solving on leetcode
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AmitPandey41/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AmitPandey41/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/AmitPandey41/leetcode/tree/master/1572-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AmitPandey41/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
