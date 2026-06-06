@@ -8,6 +8,7 @@ question are solving on leetcode
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmitPandey41/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/AmitPandey41/leetcode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/AmitPandey41/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/AmitPandey41/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AmitPandey41/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AmitPandey41/leetcode/tree/master/0283-move-zeroes) |
@@ -39,6 +40,7 @@ question are solving on leetcode
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmitPandey41/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/AmitPandey41/leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/AmitPandey41/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/AmitPandey41/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/AmitPandey41/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
@@ -62,4 +64,8 @@ question are solving on leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AmitPandey41/leetcode/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/AmitPandey41/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
