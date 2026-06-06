@@ -11,6 +11,7 @@ question are solving on leetcode
 | [0268-missing-number](https://github.com/AmitPandey41/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AmitPandey41/leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/AmitPandey41/leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/AmitPandey41/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/AmitPandey41/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AmitPandey41/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -48,5 +49,6 @@ question are solving on leetcode
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/AmitPandey41/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/AmitPandey41/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
