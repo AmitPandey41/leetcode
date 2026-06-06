@@ -14,6 +14,7 @@ question are solving on leetcode
 | [0724-find-pivot-index](https://github.com/AmitPandey41/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/AmitPandey41/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AmitPandey41/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/AmitPandey41/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ question are solving on leetcode
 | [0069-sqrtx](https://github.com/AmitPandey41/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AmitPandey41/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AmitPandey41/leetcode/tree/master/0268-missing-number) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/AmitPandey41/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Binary Search
 |  |
 | ------- |
